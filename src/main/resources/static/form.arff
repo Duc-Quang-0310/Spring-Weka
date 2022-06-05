@@ -1,0 +1,13 @@
+@relation pima_diabetes-weka.filters.unsupervised.instance.RemovePercentage-P30.0-V
+
+@attribute preg numeric
+@attribute plas numeric
+@attribute pres numeric
+@attribute skin numeric
+@attribute insu numeric
+@attribute mass numeric
+@attribute pedi numeric
+@attribute age numeric
+@attribute class {tested_negative,tested_positive}
+
+@data
